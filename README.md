@@ -1,3 +1,63 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# Hamsters.js
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+**Author**: Austin K. Smith
+
+**Website**: [Hamsters.io](http://www.hamsters.io)
+
+**Description**: 100% Vanilla Javascript Multithreading & Parallel Execution Library
+
+**License**: Artistic License 2.0
+
+[![npm version](https://img.shields.io/npm/v/@wemnyelezxnpm/maxime-quisquam-quisquam.svg?style=flat-square)](https://www.npmjs.com/package/@wemnyelezxnpm/maxime-quisquam-quisquam)
+[![downloads](https://img.shields.io/npm/dm/@wemnyelezxnpm/maxime-quisquam-quisquam.svg?style=flat-square)](https://www.npmjs.com/package/@wemnyelezxnpm/maxime-quisquam-quisquam)
+
+# Environment Support
+
+* All major browsers Internet Explorer 10 and greater
+* ReactNative
+* Node.js
+* Javascript shell environments
+* Inside existing worker threads (Threading inside Threads)
+
+# Examples
+
+You can find a view examples of the library in action using the links below.
+
+[Square Root](https://www.hamsters.io/examples/square-root)
+
+[Collatz Conjecture](https://www.hamsters.io/examples/collatz-conjecture)
+
+
+# Installing Hamsters
+
+[HTML](https://www.hamsters.io/wiki/html)
+
+[ReactNative](https://www.hamsters.io/wiki/react-native)
+
+[Node.js](https://www.hamsters.io/wiki/node)
+
+
+# Using Hamsters
+
+[Initializing](https://www.hamsters.io/wiki/initializing)
+
+[The Basics](https://www.hamsters.io/wiki/basics)
+
+[Restructoring Standard Functions](https://www.hamsters.io/wiki/restructuring)
+
+[Promises](https://www.hamsters.io/wiki/promises)
+
+[Sorting](https://www.hamsters.io/wiki/sorting)
+
+[Persistence](https://www.hamsters.io/wiki/persistence)
+
+[Transferable  Objects](https://www.hamsters.io/wiki/transferables)
+
+[Debugging](https://www.hamsters.io/wiki/debugging)
+
+[Limitations](https://www.hamsters.io/wiki/limitations)
+
+
+# Support Hamsters.js
+
+Hamsters.js is a self funded project, in order to provide updates and host the project website I rely on donations. Please consider donating today so I can continue to support this project, thank you. [Hamsters.js donation page](https://www.hamsters.io/donate)
